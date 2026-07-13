@@ -1,2 +1,12 @@
 # Python-Basics
-My python learning journey
+
+Welcome to my Python learning journey.
+
+## About Me
+- 👨‍💻 BCA Student
+- 🐍 Learning Python
+- 🤖 Future AI Engineer
+
+## Progress
+
+- ✅ Day 01 - Hello World

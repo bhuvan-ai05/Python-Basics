@@ -2,6 +2,12 @@
 
 Welcome to my Python learning journey.
 
+## Goals
+- Learn Python
+- Master Machine Learning
+- Build AI Projects
+- Become an AI Engineer
+
 ## About Me
 🎓 BCA Student
 🐍 Learning Python for AI
